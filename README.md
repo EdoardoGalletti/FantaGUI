@@ -1,4 +1,4 @@
-# FantaGUI
+# FantaGUI ![VBA][vba]
 Excel spreadsheet to manage fantasy football auctions and squads.
 
 ## Sheets
@@ -12,3 +12,5 @@ Excel spreadsheet to manage fantasy football auctions and squads.
 - Open the file.
 - IF SUMMER AUCTION: Update the entire 'PLAYERS' sheet and then update 'PLAYERS' range in 'PLAYERS' sheet; then start with the auction in sheet 'I';
 - OTHERWISE: Update the entire 'PLAYERS' sheet and then update 'PLAYERS' range in 'PLAYERS' sheet; then update the entire 'SVINCOLI' sheet with all players, also the sold ones; then start with the auction/correction in sheet 'II'
+
+[vba]: https://img.shields.io/badge/Excel-VBA-yellowgreen.svg
